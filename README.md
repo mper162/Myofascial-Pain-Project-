@@ -8,6 +8,11 @@ Location- Work files: Desktop/randika-MRI data/my work/1.stanford_data/1.new_beg
 In this UTE dataset, no phase data is available, so fat suppression is performed directly using a three-compartment model.
 Dixon water–fat separation is not required, as all components are accounted for within the multi-compartment fitting.
 
+
+MRI UTE Acquisition and Merged UTE----------------------------------------------------------------
+
+MRI UTE data were acquired at three different echo times (TEs). Therefore, merging the TE datasets is a critical initial step. The merged_ute volume serves as the primary input for subsequent processing.
+
 Preprocessing & Registration-------------------------------------------------------
 
 A muscle map is required for segmentation.
