@@ -56,6 +56,10 @@ Fat fraction
 
 Outputs are saved as Excel files for downstream analysis.
 
+Validation---------------------------------------------------------------------------------
+
+Dixon-based water and fat separation outputs were used to compute fat fraction (FF), which was then compared against UTE-derived FF measurements to validate the results.
+
 Notes------------------------------------------------------------------------------------
 
 Ensure all images are properly aligned before quantification.
